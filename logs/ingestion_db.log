@@ -1,0 +1,5 @@
+2025-06-30 17:24:52,618 - INFO - Ingesting train.csv in db
+2025-06-30 17:25:07,882 - INFO - Ingesting train.csv in db
+2025-06-30 17:25:33,700 - INFO - Ingesting train.csv in db
+2025-06-30 17:25:36,177 - INFO - -------Ingestion Complete-------
+2025-06-30 17:25:36,178 - INFO - Total Time Taken : 0.045509676138559975 minutes
